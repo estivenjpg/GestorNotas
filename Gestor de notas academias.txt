@@ -1,0 +1,14 @@
+Gestor de notas academias 
+Redacción del problema
+El sistema de registro de notas académicas tiene como propósito brindar la posibilidad de registrar, consultar, modificar y eliminar las calificaciones de los cursos. Cuenta con un menú intuitivo y fácil de usar, lo que lo convierte en una herramienta sencilla pero muy útil para la gestión de notas académicas 
+Esta dirigido a cualquier persona que necesite administrar calificaciones, ya sea un docente o un estudiante, garantizando que todos puedan utilizarlo de forma rápida y sencilla.
+Este sistema responde a la necesidad de acceder a una calificación sin realizar demasiados pasos, ofreciendo una experiencia clara, simple e intuitiva. Además, permite manejar las notas de forma ordenada sin requerir el uso de una base de datos.
+#Requisitos del sistema 
+Requisitos funcionales
+Capacidad de ingresar notas
+Capacidad de ingrese notas
+Capacidad de mostrar notas
+Capacidad de mostrar curso
+Capacidad de eliminar nota
+Capacidad de eliminar curso
+Capacidad de salir del menú (Gestor de notas)
