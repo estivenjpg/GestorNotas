@@ -1,0 +1,48 @@
+Algoritmo Regitro_de_notas
+	Definir op Como Entero
+	op <- 0
+	mientras op <> 7 hacer 
+	Escribir ""
+	Escribir "   MENU DE NOTAS UMG   "
+	Escribir  "1 Ingrese notas"
+	Escribir "2 ingrese curos"
+	Escribir  "3 mostrar notas"
+	Escribir "4 registrar curso"
+	escribir  "5 Elminar nota"
+	Escribir "6 eliminar curso"
+	Escribir  "7 Salir del registro"
+	leer op 
+	
+	si op = 1 Entonces
+		Escribir "INGRESE NOTA"
+	sino 
+		si op = 2 Entonces
+			Escribir  " INGRESE CURSO"
+		sino 
+			si op = 3 Entonces
+				 Escribir  "MOSTRAR NOTAS"
+			 SiNo
+				 si op  = 4 Entonces
+					 escribir  "MOSTRAR CURSO"
+				 SiNo
+					 si op = 5 Entonces
+						 Escribir   "ELIMINE NOTA"
+					 SINO 
+						 si op = 6 Entonces
+							 Escribir "ELIMINE CURSO"
+						 sino 
+						 si op = 7 Entonces
+							 Escribir "SALIENDO DEL MENU"
+						 SiNo
+						 Escribir "OPCION NO VALIDA"
+						 finsi
+					 FinSi
+				 FinSi
+				 
+			 FinSi
+		 FinSi
+	 FinSi
+ FinSi
+ FinMientras
+ 
+FinAlgoritmo
